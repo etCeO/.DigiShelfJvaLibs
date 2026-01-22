@@ -18,6 +18,7 @@
 - Remove books from the cart
 - Purchase books directly
 - Manage customer information
+
 To avoid known runtime exceptions related to Scanner objects, it is recommended to use Option 2 (Purchasing Directly) to run the program through a full transaction.
 
 ## Input Format
