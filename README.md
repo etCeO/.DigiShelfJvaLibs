@@ -1,7 +1,7 @@
-# MP4
-Online Library Simulation with book insertions, titles, and customer base :)
+# DigiShelf Virtual Library Simulation
+- 
 
-AUTHOR INFO
+## Author Info
 
 - Full Name: Ethan E. Lopez, Chantelle Chan, Asiyah Speight, Aidan Tran
 - Student ID: 2425516, 2428795, 2357167, 2426311
@@ -9,7 +9,7 @@ AUTHOR INFO
 - Course Number And Section: CPSC-231-01
 - Assignment Or Exercise Number: MP4: Build What You Want
 
-ERRORS (RUNTIME)
+## Errors (Runtime)
 
 - Multiple scanner issues in "cart" methods
 - Conceptually, our team followed the Scanner structure to the precise detail, however, 'no line found' exceptions still arise when removing books from the customer's carts and clearing them
@@ -23,7 +23,7 @@ ERRORS (RUNTIME)
 
 - To Avoid Reaching The Above Exception, always choose Option 2 (Purchasing Directly) to run the program all the way through
 
-SOURCES
+## Sources
 
 - Worked alongside a Computer Science student, David Sohn, who showed me how to identify a number in a String using (String).matches(".*\\d.*")
 - Used geeksforgeeks.org for guidance using the LocalDate package
